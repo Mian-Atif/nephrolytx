@@ -1,0 +1,58 @@
+CPT Codes,Description,Work RVU,Practice RVU,Malpractice RVU,Total RVU
+90935,Hemodialysis Procedure W/ Phys/Qhp Evalu,1.48 ,0.48 ,0.08 ,2.04 
+90937,Hemodialysis Px Repeat Eval W/Wo Revj Di,2.11 ,0.71 ,0.12 ,2.94 
+90945,Dialysis Other/Than Hemodialysis 1 Phys/,1.56 ,0.77 ,0.09 ,2.42 
+90947,Dialysis Oth/Thn Hemodialy Repeat Phys/Q,2.52 ,0.83 ,0.15 ,3.50 
+90960,Esrd Related Svc Monthly 20&/> Yr Old 4/,5.18 ,2.52 ,0.30 ,8.00 
+90961,Esrd Related Svc Monthly 20/>yr Old 2/3,4.26 ,2.21 ,0.25 ,6.72 
+90962,Esrd Related Svc Monthly 20&/>yr Old 1 V,3.15 ,1.85 ,0.18 ,5.18 
+90963,Esrd Svc Home Dialysis Full Month ,10.56 ,4.19 ,0.63 ,15.38 
+90964,Esrd Svc Home Dialysis Full Month 2-11 Y,9.14 ,3.75 ,0.56 ,13.45 
+90965,Esrd Svc Home Dialysis Full Month 12-19,8.69 ,3.59 ,0.52 ,12.80 
+90966,Esrd Svc Home Dialysis Full Month 20 Yr,4.26 ,2.20 ,0.24 ,6.70 
+97802,Medical Nutrition Assmt&ivntj Indiv Each,0.53 ,0.51 ,0.02 ,1.06 
+97803,Medical Nutrition Re-Assmt&ivntj Indiv E,0.45 ,0.45 ,0.02 ,0.92 
+97804,"Medical nutrition therapy; group (2 or more individual(s)), each 30 minutes	",0.25 ,0.22 ,0.01 ,0.48 
+98966,Telephone assessment and management service  within the next 24 hours,0.25 ,0.10 ,0.20 ,0.55 
+99201,Office Outpatient New,0.48 ,0.71 ,0.05 ,1.24 
+99202,Office Outpatient New ,0.93 ,1.10 ,0.08 ,2.11 
+99203,Office Outpatient New,1.42 ,1.48 ,0.15 ,3.05 
+99204,Office Outpatient New,2.43 ,1.98 ,0.22 ,4.63 
+99205,Office Outpatient New,3.17 ,2.37 ,0.29 ,5.83 
+99211,Office Outpatient Visit,0.18 ,0.38 ,0.01 ,0.57 
+99212,Office Outpatient Visit,0.48 ,0.71 ,0.04 ,1.23 
+99213,Office Outpatient Visit,0.97 ,1.02 ,0.07 ,2.06 
+99214,Office Outpatient Visit,1.50 ,1.43 ,0.10 ,3.03 
+99215,Office Outpatient Visit,2.11 ,1.82 ,0.15 ,4.08 
+99217,Observation Care Discharge Management,1.28 ,0.69 ,0.09 ,2.06 
+99218,Initial Observation Care/Day,1.92 ,0.75 ,0.15 ,2.82 
+99219,Initial Observation Care/Day,2.60 ,1.06 ,0.18 ,3.84 
+99220,Initial Observation Care/Day,3.56 ,1.45 ,0.24 ,5.25 
+99221,Initial Hospital Care/Day,1.92 ,0.76 ,0.19 ,2.87 
+99222,Initial Hospital Care/Day,2.61 ,1.05 ,0.21 ,3.87 
+99223,Initial Hospital Care/Day,3.86 ,1.58 ,0.29 ,5.73 
+99224,Sbsq Observation Care/Day,0.76 ,0.31 ,0.06 ,1.13 
+99225,Sbsq Observation Care/Day,1.39 ,0.58 ,0.09 ,2.06 
+99226,Sbsq Observation Care/Day,2.00 ,0.84 ,0.13 ,2.97 
+99231,Sbsq Hospital Care/Day,0.76 ,0.29 ,0.06 ,1.11 
+99232,Sbsq Hospital Care/Day,1.39 ,0.56 ,0.09 ,2.04 
+99233,Sbsq Hospital Care/Day ,2.00 ,0.81 ,0.14 ,2.95 
+99234,Observation/Inpatient Hospital Care,2.56 ,1.01 ,0.20 ,3.77 
+99235,Observation/Inpatient Hospital Care,3.24 ,1.31 ,0.23 ,4.78 
+99236,Observation/Inpatient Hospital Care,4.20 ,1.67 ,0.29 ,6.16 
+99238,Hospital Discharge Day Management,1.28 ,0.69 ,0.08 ,2.05 
+99239,Hospital Discharge Day Management > ,1.90 ,1.02 ,0.12 ,3.04 
+99241,Office Consultation New/Estab Patient,0.64 ,0.66 ,0.04 ,1.34 
+99242,Office Consultation New/Estab Patient ,1.34 ,1.10 ,0.08 ,2.52 
+99243,Office Consultation New/Estab Patient ,1.88 ,1.46 ,0.11 ,3.45 
+99244,Office Consultation New/Estab Patient ,3.02 ,1.96 ,0.18 ,5.16 
+99245,Office Consultation New/Estab Patient ,3.77 ,2.30 ,0.22 ,6.29 
+99251,Initial Inpatient Consult New/Estab Pt 2,1.00 ,0.32 ,0.06 ,1.38 
+99252,Initial Inpatient Consult New/Estab Pt 4,1.50 ,0.52 ,0.09 ,2.11 
+99253,Initial Inpatient Consult New/Estab Pt 5,2.27 ,0.84 ,0.13 ,3.24 
+99254,Initial Inpatient Consult New/Estab Pt 8,3.29 ,1.23 ,0.19 ,4.71 
+99255,Initial Inpatient Consult New/Estab Pt 1,4.00 ,1.44 ,0.24 ,5.68 
+99291,"Critical care, evaluation and management of the critically ill or critically injured patient; first 30-74 minutes",4.50 ,2.99 ,0.40 ,7.89 
+99335,"Domiciliary or rest home visit for the evaluation and management of an established patient, which requires at least 2 of these 3 key components",1.72 ,0.88 ,0.09 ,2.69 
+99490,"Chronic care management services, at least 20 minutes of clinical staff time directed by a physician",0.61 ,0.51 ,0.05 ,1.17 
+G0506,Comprehensive assessment of and care planning for patients requiring chronic care management services (list separately in addition to primary monthly care management service),0.87 ,0.83 ,0.06 ,1.76 
